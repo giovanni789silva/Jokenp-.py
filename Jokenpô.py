@@ -1,3 +1,5 @@
+#Jokenpô usando IF 
+
 player1 = str(input("Escolha Pedra, papel ou tesoura: ")).upper()
 player2 = str(input("Escolha pedra, papel ou tesoura: ")).upper()
 
@@ -12,3 +14,5 @@ elif player1 == player2:
 
 else:
     print("Digite uma condição válida!")
+
+#Fim!
